@@ -1,5 +1,3 @@
-# ModeladoDatosKCSQL
-
 <h1> Modelado de datos y SQL </h1>
 Practica propuesta que consiste en generar un diseño de base de datos de SQL,mediante primero un diseño de un organigrama de Entidad Relación normalizado y un Scrip de SQL que genere todas las tablas, relaciones, importación de datos y una query especifica
 
