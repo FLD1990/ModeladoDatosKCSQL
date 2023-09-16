@@ -5,7 +5,7 @@ Practica propuesta que consiste en generar un diseño de base de datos de SQL,me
 
 <h3>Modelo Entidad relación</h3>
 
-[![Captura-de-pantalla-2023-09-16-a-las-16-47-39.png](https://i.postimg.cc/9MqHFyj7/Captura-de-pantalla-2023-09-16-a-las-16-47-39.png)](https://postimg.cc/vgMN0gTY)
+![me](https://user-images.githubusercontent.com/133285057/268458623-0fcc910d-11b1-4d2c-88b6-dc3b3e2c8c3d.png)
 
 <h3>Consulta que saque el listado de coches activos con los siguientes puntos </h3>
 
